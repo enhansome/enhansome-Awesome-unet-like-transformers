@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Pure Transformer based Methods:"
+    },
+    {
+      "description": "To be updated...",
+      "items": [],
+      "title": "Transformer+CNN based Methods:"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:25:32.936Z",
+    "original_repository": "givkashi/Awesome-unet-like-transformers",
+    "original_repository_sha": "8cd4b01718c59506ca769eb5626fa87d028099bd",
+    "enhanced_repository": "enhansome/enhansome-Awesome-unet-like-transformers",
+    "enhanced_repository_description": null,
+    "title": "Awesome UNet with Transformers: with stars"
+  }
+}
