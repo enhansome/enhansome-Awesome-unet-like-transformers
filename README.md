@@ -29,8 +29,8 @@ If you find this repo is helpful, please star it.
 | 2021 |   MICCAI 2021   |                             TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.08005) [\[code\]](https://github.com/Rayicer/TransFuse) ⭐ 215 \| 🐛 0 \| 🌐 Python \| 📅 2022-08-26                             |
 | 2021 |  Springer 2021  |                          GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation [\[pdf\]](https://arxiv.org/pdf/2109.14813) [\[code\]](https://github.com/Kent0n-Li/GT-U-Net) ⭐ 37 \| 🐛 1 \| 🌐 Python \| 📅 2022-05-17                          |
 | 2021 |   ICASSP 2021   |                                     MIXED TRANSFORMER U-NET FOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2111.04734) [\[code\]](https://github.com/Dootmaan/MT-UNet) ⭐ 198 \| 🐛 11 \| 🌐 Python \| 📅 2026-03-02                                     |
-| 2021 |   MICCAI 2021   |                              TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [\[pdf\]](https://arxiv.org/pdf/2103.04430) [\[code\]](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 \| 🐛 37 \| 🌐 Python \| 📅 2024-03-11                              |
-| 2022 |   arXive 2022   |                  TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images [\[pdf\]](https://arxiv.org/pdf/2201.12785) [\[code\]](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 \| 🐛 37 \| 🌐 Python \| 📅 2024-03-11                  |
+| 2021 |   MICCAI 2021   |                              TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [\[pdf\]](https://arxiv.org/pdf/2103.04430) [\[code\]](https://github.com/Wenxuan-1119/TransBTS) ⭐ 450 \| 🐛 37 \| 🌐 Python \| 📅 2024-03-11                              |
+| 2022 |   arXive 2022   |                  TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images [\[pdf\]](https://arxiv.org/pdf/2201.12785) [\[code\]](https://github.com/Wenxuan-1119/TransBTS) ⭐ 450 \| 🐛 37 \| 🌐 Python \| 📅 2024-03-11                  |
 | 2022 | IEEE Trans 2022 |               TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2107.05274) [\[code\]](https://github.com/YishuLiu/TransAttUnet) ⭐ 35 \| 🐛 4 \| 🌐 Python \| 📅 2022-07-10              |
 | 2022 |   MICCAI 2022   |                                                                  TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers [\[pdf\]](https://arxiv.org/pdf/2203.10726)                                                                  |
 | 2022 |    WACV 2022    |                  UNETR: Transformers for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.10504) [\[code\]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) ⭐ 1,220 \| 🐛 115 \| 🌐 Python \| 📅 2025-10-06                  |
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
