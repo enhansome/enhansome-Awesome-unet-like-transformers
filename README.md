@@ -17,7 +17,7 @@ If you find this repo is helpful, please star it.
 
 | Year |    Proceeding   |                                                                                                                                  Title                                                                                                                                  |
 | ---- | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,231 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
+| 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,232 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
 | 2021 |   MICCAI 2021   |                  Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.10662) [\[code\]](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 861 \| 🐛 37 \| 🌐 Python \| 📅 2023-02-23                  |
 | 2021 |   MICCAI 2021   |                          CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.03024) [\[code\]](https://github.com/YtongXie/CoTr) ⭐ 334 \| 🐛 4 \| 🌐 Python \| 📅 2024-09-17                          |
 | 2021 |    CoRR 2021    |                        LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMERFOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2107.08623) [\[code\]](https://github.com/apple1986/LeViT-UNet) ⭐ 39 \| 🐛 3 \| 🌐 Python \| 📅 2025-10-29                       |
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
