@@ -1,7 +1,320 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV 2022 Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 363852342,
+            "language": "Python",
+            "last_commit": "2025-05-09T08:44:36Z",
+            "owner": "HuCaoFighting",
+            "repo": "Swin-Unet",
+            "stars": 2415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE Trans 2022 DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 363852342,
+            "language": "Python",
+            "last_commit": "2025-05-09T08:44:36Z",
+            "owner": "HuCaoFighting",
+            "repo": "Swin-Unet",
+            "stars": 2415
+          }
+        }
+      ],
+      "title": "Pure Transformer based Methods:"
+    },
+    {
+      "description": "To be updated...",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CVPR 2021 TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336978043,
+            "language": "Python",
+            "last_commit": "2026-02-25T04:44:14Z",
+            "owner": "Beckschen",
+            "repo": "TransUNet",
+            "stars": 3233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "MICCAI 2021 Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338717688,
+            "language": "Python",
+            "last_commit": "2023-02-23T08:42:53Z",
+            "owner": "jeya-maria-jose",
+            "repo": "Medical-Transformer",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "MICCAI 2021 CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344390337,
+            "language": "Python",
+            "last_commit": "2024-09-17T05:34:21Z",
+            "owner": "YtongXie",
+            "repo": "CoTr",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CoRR 2021 LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMERFOR MEDICAL IMAGE SEGMENTATION [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 382989615,
+            "language": "Python",
+            "last_commit": "2025-10-29T00:50:45Z",
+            "owner": "apple1986",
+            "repo": "LeViT-UNet",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "arXiv 2021 MISSFormer: An Effective Medical Image Segmentation Transformer [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439756190,
+            "language": "Python",
+            "last_commit": "2023-02-03T02:06:51Z",
+            "owner": "ZhifangDeng",
+            "repo": "MISSFormer",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "MICCAI 2021 UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411042315,
+            "language": "Python",
+            "last_commit": "2023-06-14T01:26:07Z",
+            "owner": "yhygao",
+            "repo": "UTNet",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "MICCAI 2021 TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 348328050,
+            "language": "Python",
+            "last_commit": "2022-08-26T14:08:02Z",
+            "owner": "Rayicer",
+            "repo": "TransFuse",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Springer 2021 GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394489295,
+            "language": "Python",
+            "last_commit": "2022-05-17T03:17:21Z",
+            "owner": "Kent0n-Li",
+            "repo": "GT-U-Net",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICASSP 2021 MIXED TRANSFORMER U-NET FOR MEDICAL IMAGE SEGMENTATION [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 413481284,
+            "language": "Python",
+            "last_commit": "2026-03-02T07:12:28Z",
+            "owner": "Dootmaan",
+            "repo": "MT-UNet",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "MICCAI 2021 TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344778476,
+            "language": "Python",
+            "last_commit": "2024-03-11T10:27:01Z",
+            "owner": "Rubics-Xuan",
+            "repo": "TransBTS",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "arXive 2022 TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344778476,
+            "language": "Python",
+            "last_commit": "2024-03-11T10:27:01Z",
+            "owner": "Rubics-Xuan",
+            "repo": "TransBTS",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE Trans 2022 TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511823546,
+            "language": "Python",
+            "last_commit": "2022-07-10T08:59:48Z",
+            "owner": "YishuLiu",
+            "repo": "TransAttUnet",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "WACV 2022 UNETR: Transformers for 3D Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296285350,
+            "language": "Python",
+            "last_commit": "2025-10-06T22:41:24Z",
+            "owner": "Project-MONAI",
+            "repo": "research-contributions",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "arXive 2022 A Data-scalable Transformer for Medical Image Segmentation: Architecture, Model Efficiency, and Benchmark [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445364678,
+            "language": "Python",
+            "last_commit": "2024-04-15T03:04:34Z",
+            "owner": "yhygao",
+            "repo": "CBIM-Medical-Image-Segmentation",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "arXive 2022 C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491895517,
+            "language": "Python",
+            "last_commit": "2023-04-24T08:09:52Z",
+            "owner": "xianlin7",
+            "repo": "BATFormer",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "WACV 2023 HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488158953,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-22T00:28:20Z",
+            "owner": "amirhossein-kz",
+            "repo": "HiFormer",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "AAAI 2022 UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369066661,
+            "language": "Python",
+            "last_commit": "2024-05-19T08:07:03Z",
+            "owner": "McGregorWwww",
+            "repo": "UCTransNet",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "arXive 2022 Focal-Unet: Unet-like Focal Modulation for Medical Image Segmentation [pdf] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 576898011,
+            "language": "Python",
+            "last_commit": "2025-04-03T13:47:03Z",
+            "owner": "givkashi",
+            "repo": "Focal-Unet",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Transformer+CNN based Methods:"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T20:53:01.262Z",
+    "last_updated": "2026-08-24T14:44:18.814Z",
     "original_repository": "givkashi/Awesome-unet-like-transformers",
     "original_repository_id": 572084825,
     "original_repository_sha": "8cd4b01718c59506ca769eb5626fa87d028099bd",
