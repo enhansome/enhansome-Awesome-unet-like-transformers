@@ -16,7 +16,8 @@
             "owner": "HuCaoFighting",
             "repo": "Swin-Unet",
             "stars": 2416
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "HuCaoFighting",
             "repo": "Swin-Unet",
             "stars": 2416
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         }
       ],
       "title": "Pure Transformer based Methods:"
@@ -52,7 +54,8 @@
             "owner": "Beckschen",
             "repo": "TransUNet",
             "stars": 3234
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "jeya-maria-jose",
             "repo": "Medical-Transformer",
             "stars": 861
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "YtongXie",
             "repo": "CoTr",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "apple1986",
             "repo": "LeViT-UNet",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "ZhifangDeng",
             "repo": "MISSFormer",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "yhygao",
             "repo": "UTNet",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Rayicer",
             "repo": "TransFuse",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Kent0n-Li",
             "repo": "GT-U-Net",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Dootmaan",
             "repo": "MT-UNet",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Rubics-Xuan",
             "repo": "TransBTS",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "YishuLiu",
             "repo": "TransAttUnet",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Project-MONAI",
             "repo": "research-contributions",
             "stars": 1220
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "yhygao",
             "repo": "CBIM-Medical-Image-Segmentation",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "xianlin7",
             "repo": "BATFormer",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "amirhossein-kz",
             "repo": "HiFormer",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "McGregorWwww",
             "repo": "UCTransNet",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         },
         {
           "node_type": "item",
@@ -307,14 +326,15 @@
             "owner": "givkashi",
             "repo": "Focal-Unet",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T04:26:43.126Z"
         }
       ],
       "title": "Transformer+CNN based Methods:"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:09.498Z",
+    "last_updated": "2026-08-28T04:26:43.126Z",
     "original_repository_info": {
       "archived": false,
       "id": 572084825,
