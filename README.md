@@ -9,8 +9,8 @@ If you find this repo is helpful, please star it.
 | Year |    Proceeding   |                                                                                                            Title                                                                                                           |
 | ---- | :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 2021 |  Springer 2021  |                                                         Convolution-Free Medical Image Segmentation Using Transformers [\[pdf\]](https://arxiv.org/pdf/2102.13645)                                                         |
-| 2022 |    ECCV 2022    |   Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2105.05537) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,418 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09   |
-| 2022 | IEEE Trans 2022 | DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2106.06716) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,418 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09 |
+| 2022 |    ECCV 2022    |   Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2105.05537) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,417 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09   |
+| 2022 | IEEE Trans 2022 | DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2106.06716) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,417 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09 |
 | 2022 |  Springer 2022  |                TransDeepLab: Convolution-Free Transformer-Based DeepLab v3+ for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2208.00713) [\[code\]](https://github.com/rezazad68/transdeeplab)               |
 
 ## Transformer+CNN based Methods:
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
