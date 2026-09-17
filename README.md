@@ -26,7 +26,7 @@ If you find this repo is helpful, please star it.
 | 2021 |  Springer 2021  |                                                                          U-Net Transformer: Self and Cross Attention for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.06104)                                                                         |
 | 2021 |   MICCAI 2021   |                               UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2107.00781) [\[code\]](https://github.com/yhygao/UTNet) ⭐ 200 \| 🐛 4 \| 🌐 Python \| 📅 2023-06-14                               |
 | 2021 |   arXive 2021   |                                                           Hepatic vessel segmentation based on 3D swin-transformer with inductive biased multi-head self-attention [\[pdf\]](https://arxiv.org/pdf/2111.03368)                                                          |
-| 2021 |   MICCAI 2021   |                             TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.08005) [\[code\]](https://github.com/Rayicer/TransFuse) ⭐ 216 \| 🐛 0 \| 🌐 Python \| 📅 2022-08-26                             |
+| 2021 |   MICCAI 2021   |                             TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.08005) [\[code\]](https://github.com/Rayicer/TransFuse) ⭐ 215 \| 🐛 0 \| 🌐 Python \| 📅 2022-08-26                             |
 | 2021 |  Springer 2021  |                          GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation [\[pdf\]](https://arxiv.org/pdf/2109.14813) [\[code\]](https://github.com/Kent0n-Li/GT-U-Net) ⭐ 37 \| 🐛 1 \| 🌐 Python \| 📅 2022-05-17                          |
 | 2021 |   ICASSP 2021   |                                     MIXED TRANSFORMER U-NET FOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2111.04734) [\[code\]](https://github.com/Dootmaan/MT-UNet) ⭐ 198 \| 🐛 11 \| 🌐 Python \| 📅 2026-03-02                                     |
 | 2021 |   MICCAI 2021   |                              TransBTS: Multimodal Brain Tumor Segmentation Using Transformer [\[pdf\]](https://arxiv.org/pdf/2103.04430) [\[code\]](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 \| 🐛 37 \| 🌐 Python \| 📅 2024-03-11                              |
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
