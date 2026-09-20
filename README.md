@@ -17,7 +17,7 @@ If you find this repo is helpful, please star it.
 
 | Year |    Proceeding   |                                                                                                                                  Title                                                                                                                                  |
 | ---- | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,237 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
+| 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,238 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
 | 2021 |   MICCAI 2021   |                  Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.10662) [\[code\]](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 861 \| 🐛 37 \| 🌐 Python \| 📅 2023-02-23                  |
 | 2021 |   MICCAI 2021   |                          CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.03024) [\[code\]](https://github.com/YtongXie/CoTr) ⭐ 334 \| 🐛 4 \| 🌐 Python \| 📅 2024-09-17                          |
 | 2021 |    CoRR 2021    |                        LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMERFOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2107.08623) [\[code\]](https://github.com/apple1986/LeViT-UNet) ⭐ 39 \| 🐛 3 \| 🌐 Python \| 📅 2025-10-29                       |
@@ -33,7 +33,7 @@ If you find this repo is helpful, please star it.
 | 2022 |   arXive 2022   |                  TransBTSV2: Towards Better and More Efficient Volumetric Segmentation of Medical Images [\[pdf\]](https://arxiv.org/pdf/2201.12785) [\[code\]](https://github.com/Wenxuan-1119/TransBTS) ⭐ 451 \| 🐛 38 \| 🌐 Python \| 📅 2024-03-11                  |
 | 2022 | IEEE Trans 2022 |               TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2107.05274) [\[code\]](https://github.com/YishuLiu/TransAttUnet) ⭐ 35 \| 🐛 4 \| 🌐 Python \| 📅 2022-07-10              |
 | 2022 |   MICCAI 2022   |                                                                  TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers [\[pdf\]](https://arxiv.org/pdf/2203.10726)                                                                  |
-| 2022 |    WACV 2022    |                  UNETR: Transformers for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.10504) [\[code\]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) ⭐ 1,224 \| 🐛 115 \| 🌐 Python \| 📅 2025-10-06                  |
+| 2022 |    WACV 2022    |                  UNETR: Transformers for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.10504) [\[code\]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) ⭐ 1,225 \| 🐛 115 \| 🌐 Python \| 📅 2025-10-06                  |
 | 2022 |   arXive 2022   | A Data-scalable Transformer for Medical Image Segmentation: Architecture, Model Efficiency, and Benchmark [\[pdf\]](https://arxiv.org/pdf/2203.00131) [\[code\]](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 344 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-15 |
 | 2022 |   arXive 2022   |                              C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2206.14409) [\[code\]](https://github.com/xianlin7/BATFormer) ⭐ 48 \| 🐛 4 \| 🌐 Python \| 📅 2023-04-24                              |
 | 2022 |    WACV 2023    |      HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2207.08518) [\[code\]](https://github.com/amirhossein-kz/HiFormer) ⭐ 147 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2024-03-22      |
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
