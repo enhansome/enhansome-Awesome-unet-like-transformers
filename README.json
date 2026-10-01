@@ -341,7 +341,7 @@
             "open_issues": 115,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "monai",
               "monai-components",
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:55:57.153Z",
+    "last_updated": "2026-10-01T00:08:53.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UNet with Transformer",
