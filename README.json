@@ -67,7 +67,7 @@
             "open_issues": 138,
             "owner": "Beckschen",
             "repo": "TransUNet",
-            "stars": 3243,
+            "stars": 3244,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:43.126Z"
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:07:01.114Z",
+    "last_updated": "2026-10-02T23:58:13.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UNet with Transformer",
