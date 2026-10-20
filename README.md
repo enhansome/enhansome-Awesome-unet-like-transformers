@@ -17,7 +17,7 @@ If you find this repo is helpful, please star it.
 
 | Year |    Proceeding   |                                                                                                                                  Title                                                                                                                                  |
 | ---- | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,247 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
+| 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,248 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
 | 2021 |   MICCAI 2021   |                  Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.10662) [\[code\]](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 860 \| 🐛 37 \| 🌐 Python \| 📅 2023-02-23                  |
 | 2021 |   MICCAI 2021   |                          CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.03024) [\[code\]](https://github.com/YtongXie/CoTr) ⭐ 333 \| 🐛 4 \| 🌐 Python \| 📅 2024-09-17                          |
 | 2021 |    CoRR 2021    |                        LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMERFOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2107.08623) [\[code\]](https://github.com/apple1986/LeViT-UNet) ⭐ 39 \| 🐛 3 \| 🌐 Python \| 📅 2025-10-29                       |
@@ -40,7 +40,7 @@ If you find this repo is helpful, please star it.
 | 2022 |  Elsevier 2022  |                                             TransUNet+: Redesigning the skip connection to enhance features in medical image segmentation [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009522)                                            |
 | 2022 |    AAAI 2022    |           UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer [\[pdf\]](https://arxiv.org/pdf/2109.04335) [\[code\]](https://github.com/McGregorWwww/UCTransNet) ⭐ 437 \| 🐛 0 \| 🌐 Python \| 📅 2024-05-19          |
 | 2022 |    WACV 2022    |                                                                           AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2110.10403)                                                                          |
-| 2022 |   arXive 2022   |                             Focal-Unet: Unet-like Focal Modulation for Medical Image Segmentation [\[pdf\]](https://arxiv.org/abs/2212.09263) [\[code\]](https://github.com/givkashi/Focal-Unet) ⭐ 42 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-03                             |
+| 2022 |   arXive 2022   |                             Focal-Unet: Unet-like Focal Modulation for Medical Image Segmentation [\[pdf\]](https://arxiv.org/abs/2212.09263) [\[code\]](https://github.com/givkashi/Focal-Unet) ⭐ 41 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-03                             |
 
 ***
 
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
