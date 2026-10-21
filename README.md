@@ -9,8 +9,8 @@ If you find this repo is helpful, please star it.
 | Year |    Proceeding   |                                                                                                            Title                                                                                                           |
 | ---- | :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 2021 |  Springer 2021  |                                                         Convolution-Free Medical Image Segmentation Using Transformers [\[pdf\]](https://arxiv.org/pdf/2102.13645)                                                         |
-| 2022 |    ECCV 2022    |   Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2105.05537) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,420 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09   |
-| 2022 | IEEE Trans 2022 | DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2106.06716) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,420 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09 |
+| 2022 |    ECCV 2022    |   Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2105.05537) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,421 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09   |
+| 2022 | IEEE Trans 2022 | DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2106.06716) [\[code\]](https://github.com/HuCaoFighting/Swin-Unet) ⭐ 2,421 \| 🐛 94 \| 🌐 Python \| 📅 2025-05-09 |
 | 2022 |  Springer 2022  |                TransDeepLab: Convolution-Free Transformer-Based DeepLab v3+ for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2208.00713) [\[code\]](https://github.com/rezazad68/transdeeplab)               |
 
 ## Transformer+CNN based Methods:
@@ -34,7 +34,7 @@ If you find this repo is helpful, please star it.
 | 2022 | IEEE Trans 2022 |               TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2107.05274) [\[code\]](https://github.com/YishuLiu/TransAttUnet) ⭐ 35 \| 🐛 4 \| 🌐 Python \| 📅 2022-07-10              |
 | 2022 |   MICCAI 2022   |                                                                  TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers [\[pdf\]](https://arxiv.org/pdf/2203.10726)                                                                  |
 | 2022 |    WACV 2022    |                  UNETR: Transformers for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.10504) [\[code\]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR) ⭐ 1,225 \| 🐛 115 \| 🌐 Python \| 📅 2025-10-06                  |
-| 2022 |   arXive 2022   | A Data-scalable Transformer for Medical Image Segmentation: Architecture, Model Efficiency, and Benchmark [\[pdf\]](https://arxiv.org/pdf/2203.00131) [\[code\]](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 343 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-15 |
+| 2022 |   arXive 2022   | A Data-scalable Transformer for Medical Image Segmentation: Architecture, Model Efficiency, and Benchmark [\[pdf\]](https://arxiv.org/pdf/2203.00131) [\[code\]](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) ⭐ 342 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-15 |
 | 2022 |   arXive 2022   |                              C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2206.14409) [\[code\]](https://github.com/xianlin7/BATFormer) ⭐ 48 \| 🐛 4 \| 🌐 Python \| 📅 2023-04-24                              |
 | 2022 |    WACV 2023    |      HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2207.08518) [\[code\]](https://github.com/amirhossein-kz/HiFormer) ⭐ 147 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2024-03-22      |
 | 2022 |  Elsevier 2022  |                                             TransUNet+: Redesigning the skip connection to enhance features in medical image segmentation [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009522)                                            |
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

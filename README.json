@@ -19,7 +19,7 @@
             "open_issues": 94,
             "owner": "HuCaoFighting",
             "repo": "Swin-Unet",
-            "stars": 2420,
+            "stars": 2421,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:43.126Z"
@@ -40,7 +40,7 @@
             "open_issues": 94,
             "owner": "HuCaoFighting",
             "repo": "Swin-Unet",
-            "stars": 2420,
+            "stars": 2421,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:43.126Z"
@@ -366,7 +366,7 @@
             "open_issues": 8,
             "owner": "yhygao",
             "repo": "CBIM-Medical-Image-Segmentation",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "deep-learning",
               "medical-image-segmentation",
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:20:52.318Z",
+    "last_updated": "2026-10-21T23:34:08.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UNet with Transformer",
