@@ -338,7 +338,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-10-06T22:41:24Z",
-            "open_issues": 115,
+            "open_issues": 117,
             "owner": "Project-MONAI",
             "repo": "research-contributions",
             "stars": 1225,
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:13:19.624Z",
+    "last_updated": "2026-10-31T00:00:00.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UNet with Transformer",
