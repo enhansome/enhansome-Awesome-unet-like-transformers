@@ -135,7 +135,7 @@
             "id": 382989615,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-10-29T00:50:45Z",
+            "last_commit": "2026-11-23T07:27:45Z",
             "open_issues": 3,
             "owner": "apple1986",
             "repo": "LeViT-UNet",
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:05:29.632Z",
+    "last_updated": "2026-11-24T04:56:15.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome UNet with Transformer",

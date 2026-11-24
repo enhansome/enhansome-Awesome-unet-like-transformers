@@ -20,7 +20,7 @@ If you find this repo is helpful, please star it.
 | 2021 |    CVPR 2021    |                        TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.04306) [\[code\]](https://github.com/Beckschen/TransUNet) ⭐ 3,251 \| 🐛 138 \| 🌐 Python \| 📅 2026-02-25                       |
 | 2021 |   MICCAI 2021   |                  Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2102.10662) [\[code\]](https://github.com/jeya-maria-jose/Medical-Transformer) ⭐ 860 \| 🐛 37 \| 🌐 Python \| 📅 2023-02-23                  |
 | 2021 |   MICCAI 2021   |                          CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.03024) [\[code\]](https://github.com/YtongXie/CoTr) ⭐ 333 \| 🐛 4 \| 🌐 Python \| 📅 2024-09-17                          |
-| 2021 |    CoRR 2021    |                        LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMERFOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2107.08623) [\[code\]](https://github.com/apple1986/LeViT-UNet) ⭐ 39 \| 🐛 3 \| 🌐 Python \| 📅 2025-10-29                       |
+| 2021 |    CoRR 2021    |                        LEVIT-UNET: MAKE FASTER ENCODERS WITH TRANSFORMERFOR MEDICAL IMAGE SEGMENTATION [\[pdf\]](https://arxiv.org/pdf/2107.08623) [\[code\]](https://github.com/apple1986/LeViT-UNet) ⭐ 39 \| 🐛 3 \| 🌐 Python \| 📅 2026-11-23                       |
 | 2021 |    arXiv 2021   |                              MISSFormer: An Effective Medical Image Segmentation Transformer [\[pdf\]](https://arxiv.org/pdf/2109.07162) [\[code\]](https://github.com/ZhifangDeng/MISSFormer) ⭐ 119 \| 🐛 13 \| 🌐 Python \| 📅 2023-02-03                             |
 | 2021 |    arXiv 2021   |                                                                                  Pyramid Medical Transformer for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2104.14702)                                                                                 |
 | 2021 |  Springer 2021  |                                                                          U-Net Transformer: Self and Cross Attention for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2103.06104)                                                                         |
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
