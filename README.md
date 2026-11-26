@@ -38,7 +38,7 @@ If you find this repo is helpful, please star it.
 | 2022 |   arXive 2022   |                              C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2206.14409) [\[code\]](https://github.com/xianlin7/BATFormer) ⭐ 48 \| 🐛 4 \| 🌐 Python \| 📅 2023-04-24                              |
 | 2022 |    WACV 2023    |      HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2207.08518) [\[code\]](https://github.com/amirhossein-kz/HiFormer) ⭐ 149 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2024-03-22      |
 | 2022 |  Elsevier 2022  |                                             TransUNet+: Redesigning the skip connection to enhance features in medical image segmentation [\[pdf\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009522)                                            |
-| 2022 |    AAAI 2022    |           UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer [\[pdf\]](https://arxiv.org/pdf/2109.04335) [\[code\]](https://github.com/McGregorWwww/UCTransNet) ⭐ 437 \| 🐛 0 \| 🌐 Python \| 📅 2024-05-19          |
+| 2022 |    AAAI 2022    |           UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer [\[pdf\]](https://arxiv.org/pdf/2109.04335) [\[code\]](https://github.com/McGregorWwww/UCTransNet) ⭐ 438 \| 🐛 0 \| 🌐 Python \| 📅 2024-05-19          |
 | 2022 |    WACV 2022    |                                                                           AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation [\[pdf\]](https://arxiv.org/pdf/2110.10403)                                                                          |
 | 2022 |   arXive 2022   |                             Focal-Unet: Unet-like Focal Modulation for Medical Image Segmentation [\[pdf\]](https://arxiv.org/abs/2212.09263) [\[code\]](https://github.com/givkashi/Focal-Unet) ⭐ 41 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-03                             |
 
@@ -48,4 +48,4 @@ To be updated...
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
